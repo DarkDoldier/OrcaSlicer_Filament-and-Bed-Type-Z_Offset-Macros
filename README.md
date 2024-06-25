@@ -25,7 +25,7 @@ Then add the following at the beginning of your PRINT_START macro:
   {% set FILAMENT_TYPE = params.FILAMENT_TYPE %}                          
 ```
 
-If want to use the macros together like I do activate in the Bed Macro
+If you want to use the macros together like I do activate in the Bed Macro
 ```
 SET_GCODE_OFFSET Z=0.000
 ```
