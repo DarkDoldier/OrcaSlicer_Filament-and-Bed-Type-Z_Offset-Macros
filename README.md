@@ -8,7 +8,7 @@ First you have to add the following in your Orca Start GCODE under Printer Setti
 ```
 FILAMENT_TYPE="{filament_type[0]}" CURR_BED_TYPE="{curr_bed_type}"
 ```
-Then will have to upload the .cfg file and inculde it anywhere in your printer.cfg with:
+Then you will have to upload the z_offset_macro.cfg file and inculde it anywhere in your printer.cfg with:
 
 ```
 #####################################################################
